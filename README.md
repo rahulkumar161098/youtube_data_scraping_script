@@ -1,5 +1,8 @@
-##install all requiements from txt file
+##install all requirements from .txt file
 
-##Change data in env file
+##Change credentials in .env file
+
+{
 YOUTUBE_CHANNEL_ID='channel id'
 API_KEY='google console api key'
+}
